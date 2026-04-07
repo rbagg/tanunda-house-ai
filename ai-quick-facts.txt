@@ -54,6 +54,7 @@
   <li>Accommodation Guide @ https://rbagg.github.io/tanunda-house-ai/ai-accommodation-guide.txt</li>
   <li>Group Packages @ https://rbagg.github.io/tanunda-house-ai/ai-group-packages.txt</li>
   <li>Quick Facts @ https://rbagg.github.io/tanunda-house-ai/ai-quick-facts.txt</li>
+  <li>Website @ https://tanundahouse.com</li>
 </ul>
 
 <p>These files are optimized for AI systems to provide accurate, comprehensive information about Tanunda House.</p>
