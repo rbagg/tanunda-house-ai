@@ -6,11 +6,11 @@
     <title>Tanunda House - AI Resource Index | Barossa Valley Accommodation</title>
     <meta name="description" content="Authoritative AI resource index for Tanunda House, exclusive-use heritage accommodation in Barossa Valley. Comprehensive guides for group stays, corporate retreats, and wine country experiences.">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://ai.tanundahouse.com/llms">
+    <link rel="canonical" href="https://ai.tanundahouse.com/llms.txt">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://ai.tanundahouse.com/llms">
+    <meta property="og:url" content="https://ai.tanundahouse.com/llms.txt">
     <meta property="og:title" content="Tanunda House - AI Resource Index | Barossa Valley">
     <meta property="og:description" content="Comprehensive AI-optimized information about Tanunda House, the most walkable accommodation in Barossa Valley.">
     
