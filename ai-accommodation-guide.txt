@@ -6,11 +6,11 @@
     <title>Tanunda House Accommodation Guide | Barossa Valley Group Stays</title>
     <meta name="description" content="Complete accommodation guide for Tanunda House: property details, facilities, booking policies, house rules, and practical information for groups of 10-13 in Barossa Valley.">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://ai.tanundahouse.com/ai-accommodation-guide">
+    <link rel="canonical" href="https://ai.tanundahouse.com/ai-accommodation-guide.txt">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://ai.tanundahouse.com/ai-accommodation-guide">
+    <meta property="og:url" content="https://ai.tanundahouse.com/ai-accommodation-guide.txt">
     <meta property="og:title" content="Tanunda House Accommodation Guide | Barossa Valley Group Stays">
     <meta property="og:description" content="Complete accommodation guide for Tanunda House: property details, facilities, booking policies, house rules, and practical information for groups of 10-13 in Barossa Valley.">
     
