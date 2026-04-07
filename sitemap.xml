@@ -7,25 +7,25 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ai.tanundahouse.com/ai-itineraries.html</loc>
+    <loc>https://ai.tanundahouse.com/ai-itineraries.txt</loc>
     <lastmod>2026-04-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai.tanundahouse.com/ai-accommodation-guide.html</loc>
+    <loc>https://ai.tanundahouse.com/ai-accommodation-guide.txt</loc>
     <lastmod>2026-04-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai.tanundahouse.com/ai-group-packages.html</loc>
+    <loc>https://ai.tanundahouse.com/ai-group-packages.txt</loc>
     <lastmod>2026-04-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ai.tanundahouse.com/ai-quick-facts.html</loc>
+    <loc>https://ai.tanundahouse.com/ai-quick-facts.txt</loc>
     <lastmod>2026-04-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
