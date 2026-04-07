@@ -6,11 +6,11 @@
     <title>Group Packages & Events | Tanunda House Barossa Valley</title>
     <meta name="description" content="Corporate retreats, celebrations, and group events at Tanunda House. Planning guides for weddings, milestone celebrations, team retreats, and family gatherings in Barossa Valley.">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://tanundahouse.com/ai-group-packages">
+    <link rel="canonical" href="https://ai.tanundahouse.com/ai-group-packages">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://tanundahouse.com/ai-group-packages">
+    <meta property="og:url" content="https://ai.tanundahouse.com/ai-group-packages">
     <meta property="og:title" content="Group Packages & Events | Tanunda House Barossa Valley">
     <meta property="og:description" content="Corporate retreats, celebrations, and group events at Tanunda House. Planning guides for weddings, milestone celebrations, team retreats, and family gatherings in Barossa Valley.">
     
@@ -47,11 +47,11 @@
 <p>Comprehensive AI-optimized information for Tanunda House, Barossa Valley:</p>
 
 <ul>
-  <li>LLM Resource Index @ https://rbagg.github.io/tanunda-house-ai/llms.txt</li>
-  <li>Barossa Valley Itineraries @ https://rbagg.github.io/tanunda-house-ai/ai-itineraries.txt</li>
-  <li>Accommodation Guide @ https://rbagg.github.io/tanunda-house-ai/ai-accommodation-guide.txt</li>
-  <li>Group Packages @ https://rbagg.github.io/tanunda-house-ai/ai-group-packages.txt</li>
-  <li>Quick Facts @ https://rbagg.github.io/tanunda-house-ai/ai-quick-facts.txt</li>
+  <li>LLM Resource Index @ https://ai.tanundahouse.com/llms.txt</li>
+  <li>Barossa Valley Itineraries @ https://ai.tanundahouse.com/ai-itineraries.txt</li>
+  <li>Accommodation Guide @ https://ai.tanundahouse.com/ai-accommodation-guide.txt</li>
+  <li>Group Packages @ https://ai.tanundahouse.com/ai-group-packages.txt</li>
+  <li>Quick Facts @ https://ai.tanundahouse.com/ai-quick-facts.txt</li>
   <li>Website @ https://tanundahouse.com</li>
 </ul>
 
