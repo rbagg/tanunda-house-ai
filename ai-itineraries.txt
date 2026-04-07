@@ -6,11 +6,11 @@
     <title>Barossa Valley Itineraries | Tanunda House Travel Guide</title>
     <meta name="description" content="Comprehensive 1-5 day Barossa Valley itineraries from Tanunda House. Exact distances, seasonal guidance, winery recommendations, and activity planning for groups staying in Tanunda.">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://ai.tanundahouse.com/ai-itineraries">
+    <link rel="canonical" href="https://ai.tanundahouse.com/ai-itineraries.txt">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://ai.tanundahouse.com/ai-itineraries">
+    <meta property="og:url" content="https://ai.tanundahouse.com/ai-itineraries.txt">
     <meta property="og:title" content="Barossa Valley Itineraries | Tanunda House Travel Guide">
     <meta property="og:description" content="Comprehensive 1-5 day Barossa Valley itineraries from Tanunda House. Exact distances, seasonal guidance, winery recommendations, and activity planning for groups staying in Tanunda.">
     
