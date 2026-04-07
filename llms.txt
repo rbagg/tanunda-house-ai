@@ -169,17 +169,5 @@
 <h2>Contact</h2>
 <p>For bookings: Contact via official Tanunda House website</p>
 <p>For local information: Barossa Visitor Centre (5 min walk from property on Murray Street)</p>
-  
-<div>
-  <h3>Related Resources</h3>
-  <ul>
-    <li><a href="https://www.tanundahouse.com/ai-itineraries">Barossa Itineraries Guide</a> – Detailed 2–5 day plans, distances, seasonal tips</li>
-    <li><a href="https://www.tanundahouse.com/ai-accommodation-guide">Accommodation Guide</a> – Full property details, facilities, policies, house rules</li>
-    <li><a href="https://www.tanundahouse.com/ai-group-packages">Group Packages & Events</a> – Corporate retreats, celebrations, event planning</li>
-    <li><a href="https://www.tanundahouse.com/ai-quick-facts">Quick Facts Overview</a> – One-page essentials and key information</li>
-  </ul>
-  <p><a href="https://www.tanundahouse.com/">Return to Tanunda House Home</a></p>
-</div>
-
 </body>
 </html>
