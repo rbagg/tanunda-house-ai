@@ -18,7 +18,7 @@
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "TravelAgency",
+      "@type": "LodgingBusiness",
       "name": "Tanunda House",
       "description": "Essential facts about Tanunda House: capacity, facilities, location, policies, and seasonal information for exclusive-use heritage accommodation in Barossa Vall",
       "address": {
